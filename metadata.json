@@ -1,0 +1,6 @@
+{
+  "name": "Hora Exata e Relógio Mundial",
+  "description": "Exibe a hora exata do mundo em tempo real, permite comparar a precisão do seu dispositivo, pesquisar fusos horários, favoritar cidades e converter fusos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
